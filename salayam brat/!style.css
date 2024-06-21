@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.navbar{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+
+    }
+    .logo {
+        display: flex;
+        align-items: center;
+        
+    }
+    .logo h3{
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 30px;
+        margin-left: 20px;
+        }
+    
+        .nav_List{
+         display: flex;
+         align-items: start;
+         gap: 200px;
+         color: #1f1434;
+         display: block;
+         color: black;
+        }
+    
+    
+        ol, ul {
+            list-style: none;
+            display: flex;
+            align-items: start;
+            gap: 200px;
+            color: #1f1434;
+            position: relative;
+            left: -50px;
+            
+        }
+    
+        a{
+            text-decoration:  none;
+        }
+    
+        .nav_List a {
+          display: flex;
+          justify-content: space-around;
+       
+            
+        }
+    
+    
+        header{
+            padding: 40px 0;
+        }
+        .on{
+            color: red;
+        }
+
+        .sayam{
+            width: Hug (189px)px;
+            height: Hug (47px)px;
+            padding: 12px 24px 12px 24px;
+            gap: 0px;
+            border-radius: 8px 0px 0px 0px;
+            border: 2px 0px 0px 0px;
+            opacity: 0px;
+            border: 2px solid rgba(222, 46, 84, 1)
+             rgba(255, 255, 255, 1);
+             color: red;
+             border: 1px solid red;
+        }
+.somsa{
+    width: 1200px;
+}
+
+.container h1{
+    position: relative;
+    top: -400px;
+    left: 100px;
+    color: white;
+}
+
+.onesiu{
+    position: relative;
+    top: -750px;
+    height: 30px;
+    background: rgba(222, 46, 84, 0.8);
+    color: white;
+    border: 1px solid  rgba(222, 46, 84, 0.8);
+    left: 120px;
+    border-radius: 7px;
+
+}
+
+.px{
+    position: relative;
+    top: -510px;
+    left: 600px;
+    width: 380px;
+}
+
+.sal{
+    position: relative;
+    top: -270px;
+    left: -280px;
+}
+.hi{
+    position: relative;
+    top: -450px;
+    left: 500px;
+}
+.hiq{
+    position: relative;
+    top: -430px;
+    left: 500px;
+}
+
+.oneqq{
+    position: relative;
+    top: -270px;
+    left: 800px;
+}
+
+.lorem{
+    position: relative;
+    top: -430px;
+    left: 200px;
+}
+
+
+.box{
+   position: relative;
+    width: 1440px;
+    height: 669px;
+    top: -100px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(14, 180, 193, 1);
+    
+}
+
+.box h1{
+    font-size: 100px;
+}
+
+.auq{
+    position: relative;
+    left: -100px;
+    top: 100px;
+}
+
+.arwa{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.qqqq{
+    position: relative;
+    top: -200px;
+    left: 350px;
+    width: 460px;
+    gap: 50px;
+    height: 39.11px;
+    opacity: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 7px;
+    text-align: center;
+
+
+}
+
+.qqqqa{
+    position: relative;
+    top: -200px;
+    left: 350px;
+    width: 460px;
+    gap: 50px;
+    height: 39.11px;
+    opacity: 0px;
+    display: flex;
+    border-radius: 7px;
+    background: rgba(56, 204, 139, 1);
+    gap: 0px;
+    opacity: 0px;
+    box-shadow: 0px -4px 0px 0px rgba(0, 0, 0, 0.0909) inset;
+color: white;
+font-size: 25px;
+
+    
+
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.navbar{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+
+    }
+
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    
+}
+.logo h3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    margin-left: 20px;
+    }
+
+    .nav_List{
+     display: flex;
+     align-items: center;
+     gap: 50px;
+     color: #1f1434;
+     display: block;
+     color: black;
+    }
+
+
+    ol, ul {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 50px;
+        color: #1f1434;
+    }
+
+    a{
+        text-decoration:  none;
+    }
+
+    .nav_List a {
+      display: flex;
+      justify-content: space-around;
+   
+        
+    }
+
+
+    header{
+        padding: 40px 0;
+    }
+
+    .cona{
+        height: 100px;
+        background-color: black;
+        
+    }
+
+    .sss{
+        color: red  ;
+        text-align: center;
+    }
+
+    .aq{
+        color: white;
+        text-align: center;
+    }
